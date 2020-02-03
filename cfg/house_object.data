@@ -1,0 +1,5 @@
+classes = 57
+train  = /home/data-drive/download/train.txt
+valid  = /home/data-drive/download/test.txt
+names = /home/data-drive/download/house_objects.names
+backup = /home/data-drive/download/weights/
